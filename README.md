@@ -44,3 +44,24 @@ the contribution was completed.
 
 ## Destroying the entropy
 The entropy was never on the disk of the Pi, only in its temporary memory. Despite this, to be sure, the Micro SD that was used as the internal storage of the Pi was taken and destroyed. It was first broken into many pieces and subsequently grinded using a rock. The Micro SD adapter that was used to move the entropy was fully formatted afterwards.
+
+## Our contribution
+Our contribution no. is 83336. We contributed with address
+```
+0xb70aa3d2b6DfcaA804C45ED0bFeb785562dB42Dc
+```
+Our Powers of Tau public keys are:
+```
+(2^12): 
+0x93d7ba163530c3d6f70b3f89d0bdd4986e53aad52d2279c75ee967ee080f32209a960a7d3070c41b1c94db0e4633c30c1814da27415289f989a524602c3455f8d82756b2c8c9f2e77a2c4e8bc2460ef137fcc3c5f46d4f16b1ab39b1345ac697
+
+(2^13): 
+0x87ed4d56364f6348fab07a27c6676f540ab9cddce390efcf9ee84b9cca2a0ec391be5bcfaae127259dfdc6388680dd75084c99df9dfe27dc089fc8016bc0079e36ea94536056f2712e4c7644f7366c2467b8d4a8f4bf0351473443d78f9de5b8
+
+(2^14): 
+0x8cc3102e8439e4e755544183af743914aec47e341a0a13b2ff857939fd16e0da7f3e741266192ed565e26dde3bca9a17192556efe0c54bacf20826a50cc7478c06fe5c15b379be2d96719db87435ff6622bfc699f77a09a9e86e0ff843cb28bf
+
+(2^15): 
+0xb46c6e844ca35349147f6dbf3bcde313c84cb9992d9593d842dc254220219ec75fb255ce45f762873ed60208ae6ba0c200ac0cca920f15b2250c4c21b8e1793d6fd26810b87559f0516fc28e80620318e83b1afbcda0cb3beb6f4b32e48fa811
+```
+
